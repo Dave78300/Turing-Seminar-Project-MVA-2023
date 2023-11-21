@@ -4,4 +4,4 @@ The report was done mostly in french.
 
 Authors : Mathis LE BAIL / David SAHNA.
 
-We are part of the MVA's program.
+We are part of the [MVA Master's degree](https://www.master-mva.com/)v.
